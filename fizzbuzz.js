@@ -1,5 +1,4 @@
 function fizzbuzz(n) {
-  // console.log("This is fizzbuzz!")
   let output = [];
 
   for (let i = 1; i <= n; i++) {
